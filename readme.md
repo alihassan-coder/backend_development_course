@@ -6,9 +6,10 @@ To get started with this repository, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/alihassan-coder/backend_development_course.git
+    cd backend_development_course
     ```
+
 
 ## Folder Structure
 
