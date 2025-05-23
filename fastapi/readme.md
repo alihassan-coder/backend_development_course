@@ -15,7 +15,7 @@
 Routes define the paths or endpoints for the API. A route is associated with a URL path and a request method (like `GET`, `POST`, `PUT`, or `DELETE`).
 
 ```python
-from fastapi import FastAPI
+from fastapi import fastAPI
 
 app = FastAPI()
 
